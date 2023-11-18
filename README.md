@@ -6,8 +6,9 @@
 
 </div>
 <div dir="rtl">
- <!-- dir="ltr" -->
+
 ### مراحل تمرین:
+
 
 1. **تعریف مدل‌ها**:
     - `Student`: با فیلدهای `first_name`, `last_name`, `student_number`, `enrollment_year`, `major`
